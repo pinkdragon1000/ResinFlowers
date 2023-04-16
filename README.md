@@ -9,7 +9,7 @@ Example from Google Images:
 
 
 
-I wanted to try a similar technique but using code instead.  I was inspired by this codepen and the thought crossed my mind that this would be a cool idea to implement: https://codesandbox.io/s/aquarium-n7jf0f.
+I wanted to try a similar technique but using code instead.  I was inspired by this codepen and the thought crossed my mind that this would be a cool idea to implement: https://codesandbox.io/s/aquarium-forked-8j36ok.
 
 The code uses [React Three](https://docs.pmnd.rs/) which is a wrapper on WebGL (Web Graphics Library).  By dragging the mouse around, the glass moves so you can see it from different angles.
 
